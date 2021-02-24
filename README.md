@@ -14,7 +14,7 @@ Remember, you have to :
 - Pygame 1.9 or above
 - Arrow keys to move
 - Space key to shoot
-to run and play this game.
+\nto run and play this game.
 
 ## Credits for the assets
 Spike: "Icon made by Freepik from www.flaticon.com"
