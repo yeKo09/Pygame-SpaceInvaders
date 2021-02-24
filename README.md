@@ -7,7 +7,9 @@ You are in a distant, remote planet and the first things you see are asteroids.T
 
 
 ## Some images
-![Screenshot](C:\Users\yekta\OneDrive\Masaüstü\congrats.png)
+![](screenshots/In-game.png)
+![](screenshots/token.png)
+![](screenshots/congrats.png)
 
 ## How to play
 Download the source code and type:
