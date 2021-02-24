@@ -18,13 +18,13 @@ Remember, you have to :
 These are how you can play the game.
 
 ## Credits for the assets
-Spike: "Icon made by Freepik from www.flaticon.com"
+-Spike: "Icon made by Freepik from www.flaticon.com"
 https://www.flaticon.com/free-icon/mace_1396680?term=spike&page=1&position=25&page=1&position=25&related_id=1396680&origin=style
-Spaceship icon: "Icon made by Freepik from www.flaticon.com"
+-Spaceship icon: "Icon made by Freepik from www.flaticon.com"
 https://www.flaticon.com/free-icon/project_1055646?term=spaceship&page=1&position=14&page=1&position=14&related_id=1055646&origin=style
-Rock Stone: "Icon made by Freepik from www.flaticon.com"
+-Rock Stone: "Icon made by Freepik from www.flaticon.com"
 https://www.flaticon.com/free-icon/asteroid_1730?term=rock%20stone&page=1&position=16&page=1&position=16&related_id=1730&origin=style
-Jet: "Icon made by Pixel perfect from www.flaticon.com"
+-Jet: "Icon made by Pixel perfect from www.flaticon.com"
 https://www.flaticon.com/free-icon/jet-plane_1198132?term=fighter%20jet&page=1&position=19&page=1&position=19&related_id=1198132&origin=search
 
 ## Contact
