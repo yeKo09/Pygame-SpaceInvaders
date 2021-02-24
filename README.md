@@ -11,10 +11,11 @@ Download the source code and type:
 
 Remember, you have to : 
 - have Python 3.7 or above
-- Pygame 1.9 or above
-- Arrow keys to move
-- Space key to shoot
-\nto run and play this game.
+- have Pygame 1.9 or above
+- use Arrow keys to move
+- use Space key to shoot
+
+These are how you can play the game.
 
 ## Credits for the assets
 Spike: "Icon made by Freepik from www.flaticon.com"
